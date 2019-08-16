@@ -1,6 +1,6 @@
 {
   "name": "tetris-game",
-  "homepage" : "http://jespadas.github.io/tetris-game",
+  "homepage" : "https://jespadas.github.io/tetris-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
