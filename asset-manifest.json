@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.151e2bc5.chunk.css",
-    "main.js": "/static/js/main.238abbd0.chunk.js",
-    "main.js.map": "/static/js/main.238abbd0.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.cbef22a6.js",
-    "runtime~main.js.map": "/static/js/runtime~main.cbef22a6.js.map",
-    "static/js/2.b417d115.chunk.js": "/static/js/2.b417d115.chunk.js",
-    "static/js/2.b417d115.chunk.js.map": "/static/js/2.b417d115.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.642de9903be2f6b627e75667d05c6500.js": "/precache-manifest.642de9903be2f6b627e75667d05c6500.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.151e2bc5.chunk.css.map": "/static/css/main.151e2bc5.chunk.css.map",
-    "static/media/index.css": "/static/media/Pixel-LCD-7.e2897552.woff",
-    "static/media/bg.png": "/static/media/bg.2810fe6b.png"
+    "main.css": "/tetris-game/static/css/main.23612d8e.chunk.css",
+    "main.js": "/tetris-game/static/js/main.5d791a6b.chunk.js",
+    "main.js.map": "/tetris-game/static/js/main.5d791a6b.chunk.js.map",
+    "runtime~main.js": "/tetris-game/static/js/runtime~main.51a5dadf.js",
+    "runtime~main.js.map": "/tetris-game/static/js/runtime~main.51a5dadf.js.map",
+    "static/js/2.02ded13b.chunk.js": "/tetris-game/static/js/2.02ded13b.chunk.js",
+    "static/js/2.02ded13b.chunk.js.map": "/tetris-game/static/js/2.02ded13b.chunk.js.map",
+    "index.html": "/tetris-game/index.html",
+    "precache-manifest.22d831f9ed47ee5ea9e40692b9fabaa1.js": "/tetris-game/precache-manifest.22d831f9ed47ee5ea9e40692b9fabaa1.js",
+    "service-worker.js": "/tetris-game/service-worker.js",
+    "static/css/main.23612d8e.chunk.css.map": "/tetris-game/static/css/main.23612d8e.chunk.css.map",
+    "static/media/index.css": "/tetris-game/static/media/Pixel-LCD-7.e2897552.woff",
+    "static/media/bg.png": "/tetris-game/static/media/bg.2810fe6b.png"
   }
 }
