@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b1358f09a4611f3d711c1f8237c2009",
+    "revision": "1808e36ff68ed820496f1e838fdfb550",
     "url": "/tetris-game/index.html"
   },
   {
-    "revision": "39f82d66f2eb6a59e07e",
-    "url": "/tetris-game/static/css/main.a333cf1e.chunk.css"
+    "revision": "4d99b544d0580187baf7",
+    "url": "/tetris-game/static/css/main.bb39b3d4.chunk.css"
   },
   {
     "revision": "d1eacac07ec41e4c5867",
     "url": "/tetris-game/static/js/2.02ded13b.chunk.js"
   },
   {
-    "revision": "39f82d66f2eb6a59e07e",
+    "revision": "4d99b544d0580187baf7",
     "url": "/tetris-game/static/js/main.7818674e.chunk.js"
   },
   {
