@@ -111,6 +111,7 @@ const Tetris = () => {
             </div>
           )}
           <StartButton callback={startGame} />
+          <div className="divMessage"> This is a Web Game, you can't play in mobile devices for the moment. </div>
         </aside>
       </StyledTetris>
     </StyledTetrisWrapper>

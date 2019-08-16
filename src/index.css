@@ -6,3 +6,9 @@ body {
   font-family: 'Pixel';
   src: url("font/Pixel-LCD-7.woff") format('woff');
 }
+
+.divMessage {
+  color:yellow;
+  font-family: Pixel, Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+}
