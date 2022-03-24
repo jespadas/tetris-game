@@ -5,7 +5,7 @@
   "private": false,
   "dependencies": {
     "gh-pages": "^2.1.1",
-    "minimist": "^1.2.2",
+    "minimist": "^1.2.6",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "^3.4.1",
@@ -15,7 +15,7 @@
   "devDependencies": {
     "kind-of": ">=6.0.3",
     "acorn": ">=6.4.1",
-    "minimist": ">=1.2.3"
+    "minimist": ">=1.2.6"
   },
   "scripts": {
     "start": "react-scripts start",
